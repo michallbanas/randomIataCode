@@ -1,0 +1,11 @@
+{
+  "name": "random-iata-code",
+  "version": "0.1.0",
+  "description": "Random IATA Code",
+  "main": "src/main.js",
+  "author": "Michal Banas",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
