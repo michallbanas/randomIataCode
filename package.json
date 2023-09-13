@@ -1,11 +1,11 @@
 {
   "name": "random-iata-code",
   "version": "0.1.1",
-  "description": "Random IATA Code",
-  "main": "src/main.js",
   "author": "Michal Banas",
-  "license": "ISC",
+  "main": "src/main.js",
   "devDependencies": {
     "prettier": "^2.8.8"
-  }
+  },
+  "description": "Random IATA Code",
+  "license": "ISC"
 }
